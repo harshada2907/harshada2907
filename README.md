@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
 <img align = "right" alt = "coding" width = "400" src = "https://media1.giphy.com/media/RbDKaczqWovIugyJmW/200.gif?cid=790b76112c56cwwm3l2ho62qj1k41g3rwmkddaap212t0t3h&rid=200.gif&ct=g">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshada2907&label=Profile%20views&color=0e75b6&style=flat" alt="harshada2907" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
