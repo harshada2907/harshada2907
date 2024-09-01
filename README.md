@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harshada Hadavale</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
-<img align = "right" alt = "Coding" width = "400" src  "https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img align = "right" alt = "Coding" width = "400" src  "https://i.ytimg.com/vi/7AUyMyHX0MQ/maxresdefault.jpg">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
