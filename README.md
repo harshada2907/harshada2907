@@ -1,4 +1,4 @@
-
+![logo](https://github.com/harshada2907/harshada2907/blob/main/Github_Banner.png)
 <h1 align="center">Hi 👋, I'm Harshada Hadavale</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
