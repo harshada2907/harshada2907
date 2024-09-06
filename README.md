@@ -44,4 +44,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshada2907&show_icons=true&locale=en&bg_color=000000&text_color=FFFFFF&icon_color=00FF00&title_color=FF0000" alt="harshada2907" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=black-ice&hide_border=false&stroke=0000&background=060A0C" alt="harshada" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=black-ice&hide_border=true&stroke=0000&background=060A0C" alt="harshada" /></p>
