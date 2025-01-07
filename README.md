@@ -52,11 +52,13 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <div align="center">
+
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshada2907&show_icons=true&locale=en&bg_color=0D1117&text_color=FFFFFF&icon_color=79FF97&title_color=F85D7F" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshada2907&show_icons=true&locale=en&bg_color=0C0C0D&text_color=FFFFFF&icon_color=FFAB00&title_color=FF4500" alt="GitHub Stats" />
   </p>
+
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=dark&hide_border=true&background=0C0C0D&ring=FF4500&fire=FFAB00&currStreakLabel=FFFFFF" alt="GitHub Streak" />
   </p>
 </div>
 
