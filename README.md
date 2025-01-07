@@ -14,4 +14,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshada2907&show_icons=true&locale=en&bg_color=0D1117&text_color=FFFFFF&icon_color=79FF97&title_color=F85D7F" alt="harshada2907" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=dark&hide_border=true&background=0D1117" alt="harshada2907" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshada2907&theme=dark&hide_border=true&bg1_color=0D1117" alt="harshada2907" /></p>
