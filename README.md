@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harshada Hadavale</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://i.ytimg.com/vi/7AUyMyHX0MQ/maxresdefault.jpg">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hhadavale45168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hhadavale45168" height="30" width="40" /></a>
