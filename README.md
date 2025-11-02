@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshada Hadavale</h1>
 <h3 align="center">A passionate Computer Engineer and AI/ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshada29079&label=Profile%20views&color=0e75b6&style=flat" alt="harshada29079" /> </p>
-
 - 🌱 I’m currently learning **Advanced Machine Learning and Deep Learning**
 - 👯 I’m looking to collaborate on **AI/ML, Web Dev and Research Projects**
 - 💬 Ask me about **Python, Machine Learning, Django, Flask**
